@@ -1,0 +1,58 @@
+/* *{
+    margin:0;
+    padding: 0;
+
+}
+.contain{
+    height: 100%;
+    width: 100vw;
+   
+
+}
+.contain .signup-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   padding-bottom: 8px;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top:6%;
+   padding-top: 9px;
+   box-shadow: 5px 10px 18px rgb(154, 150, 150);
+
+}
+.user{
+    color:#3f51b5;}
+.register-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.sign-in{
+    padding-bottom: 25px;
+}
+@media(max-width: 690px){
+    .contain .signup-page{
+        box-shadow:none;
+    }
+}
+@media(max-width:640px){
+    .f-s{
+        margin-left:-60px ;
+    }
+    .sign-in{
+        margin-right: -55px;
+    }
+    
+}
+@media(max-width:530px){
+    .f-s{
+        margin-left:-55px ;
+    }
+    .sign-in{
+        margin-right: -58px;
+    }
+    
+} */
